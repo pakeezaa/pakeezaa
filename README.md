@@ -6,7 +6,7 @@
   <a href="mailto:"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-## 🧭 About Me
+##  About Me
 
 ```
 name:         Pakeeza Bibi
@@ -14,7 +14,7 @@ role:         BS Computer Science Student (1st Year)
 affiliation:  Institute of Space Technology (IST) — KICSIT Campus
 location:     Karachi, Pakistan 🇵🇰
 focus:        [Web Development, Mobile App Development, Machine Learning, AI]
-status:       Currently learning & building ✨
+status:       Currently learning & building 
 ```
 
 I'm a first-year Computer Science student exploring the world of software
@@ -28,6 +28,7 @@ along the way.
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -45,9 +46,13 @@ along the way.
 **Databases & Tools**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
 **Currently Learning**
 
@@ -55,16 +60,16 @@ along the way.
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=flat-square)
 ![Mobile App Dev](https://img.shields.io/badge/Mobile%20App%20Development-3B82F6?style=flat-square)
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=pakeezaa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pakeezaa&layout=compact&theme=tokyonight&hide_border=true)
 
-## 📈 Contribution Streak
+##  Contribution Streak
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pakeezaa&theme=tokyonight&hide_border=true)
 
-## 🔬 Projects
+##  Projects
 
 | Project | Description |
 | --- | --- |
@@ -75,22 +80,21 @@ along the way.
 | **Student Management System** | Flask/MongoDB app with full CRUD operations and a polished single-page UI |
 | **KICSIT Student Info System** | DOS-based x86 Assembly (NASM) project — attendance tracking and grade calculation |
 
-## 💼 Experience
+##  Experience
 
-🐍 **Python Developer Intern** — Synent Technologies (Remote) `Jul 2026 – Aug 2026`
+ **Python Developer Intern** — Synent Technologies (Remote) `Jul 2026 – Aug 2026`
 Worked with Python (os, numpy, pandas, matplotlib), built a file organizer and a weather app, and picked up scikit-learn plus core ML/DL concepts
 
-🤖 **ML Engineering Intern** — Elevvo Pathways `Aug 2026 – Present`
+ **ML Engineering Intern** — Elevvo Pathways `Aug 2026 – Present`
 Working on customer segmentation, sales forecasting, music genre classification, and industrial predictive maintenance projects
 
-## 🏫 Education
+##  Education
 
 🎓 **BS Computer Science** — Institute of Space Technology, KICSIT Campus `2024 – 2028`
 
-## 🔎 Interests
+##  Interests
 
 `Web Development` `Mobile App Development` `Machine Learning` `Artificial Intelligence`
 
-### ⭐ Always open to learning, collaborating, and building cool projects — feel free to connect!
+###  Always open to learning, collaborating, and building cool projects — feel free to connect!
 
-![Profile Views](https://komarev.com/ghpvc/?username=pakeezaa&style=flat-square&color=2EC4B6)
