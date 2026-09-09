@@ -10,20 +10,20 @@
 
 ```
 name:         Pakeeza Bibi
-role:         BS Computer Science Student (1st Year)
+role:         BS Computer Science Student (3rd Year)
 affiliation:  Institute of Space Technology (IST) — KICSIT Campus
-location:     Karachi, Pakistan 🇵🇰
+location:     Islamabad, Pakistan 🇵🇰
 focus:        [Web Development, Mobile App Development, Machine Learning, AI]
 status:       Currently learning & building 
 ```
 
-I'm a first-year Computer Science student exploring the world of software
+I'm a 3rd year Computer Science student exploring the world of software
 development and Artificial Intelligence. I'm currently learning and building
 **web applications**, **mobile apps**, and diving into **Machine Learning**
 and **AI** — with hands-on projects, internships, and a lot of curiosity
 along the way.
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Languages**
 
