@@ -79,7 +79,7 @@ along the way.
  **Python Developer Intern** — Synent Technologies (Remote) `Jul 2026 – Aug 2026`
 Worked with Python (os, numpy, pandas, matplotlib), built a file organizer and a weather app, and picked up scikit-learn plus core ML/DL concepts
 
- **ML Engineering Intern** — Elevvo Pathways `Aug 2026 – Present`
+ **ML Engineering Intern** — Elevvo Pathways `Aug 2026 `
 Working on customer segmentation, sales forecasting, music genre classification, and industrial predictive maintenance projects
 
 ##  Education
