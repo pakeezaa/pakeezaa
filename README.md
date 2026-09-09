@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Pakeeza+Bibi;BS+Computer+Science+Student+%40+IST;Learning+Web+Dev%2C+Mobile+Apps%2C+ML+%26+AI;Building+one+project+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+
 <p align="center"> <a href="https://www.linkedin.com/in/pakeezab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="mailto:pzdhp23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
 
