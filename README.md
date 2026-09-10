@@ -72,9 +72,8 @@ along the way.
 | Project | Description |
 | --- | --- |
 | **SmartGrade AI** | Streamlit app predicting student performance using a Random Forest model on the UCI Student Performance dataset |
-| **SilverConnect Hub** | Flask/MongoDB platform connecting senior citizens with volunteers in Karachi — includes volunteer messaging, contact form handling, and a role-based admin panel |
-| **Elder Tech Help Hub** | A website project with custom SVG illustrations, built to make tech help more accessible for elders |
-| **Crop Guard AI** | Hackathon project (built for a Pakistan-wide competition) — an AI system that detects crop damage from satellite & weather data and auto-triggers financial relief for farmers |
+| **SilverConnect Hub** | Flask/MongoDB platform connecting senior citizens with volunteers includes volunteer messaging, contact form handling, and a role-based admin panel |
+| **Crop Guard AI** | Hackathon project (built for a Pakistan-wide competition)  an AI system that detects crop damage from satellite & weather data and auto-triggers financial relief for farmers |
 | **Student Management System** | Flask/MongoDB app with full CRUD operations and a polished single-page UI |
 | **KICSIT Student Info System** | DOS-based x86 Assembly (NASM) project — attendance tracking and grade calculation |
 
