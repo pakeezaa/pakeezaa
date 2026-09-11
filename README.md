@@ -64,7 +64,7 @@ along the way.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pakeezaa&layout=compact&theme=tokyonight&hide_border=true)
 
 ##  Contribution Streak
-https://streak-stats.demolab.com/?user=pakeezaa&theme=tokyonight&hide_border=true
+![](https://streak-stats.demolab.com/?user=pakeezaa&theme=tokyonight&hide_border=true)
 
 
 ##  Projects
