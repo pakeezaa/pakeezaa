@@ -1,8 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=38&duration=2800&pause=900&color=2EC4B6&center=true&vCenter=true&width=950&height=70&lines=Hey%2C+I+am+Pakeeza+%F0%9F%91%8B;Painter+%F0%9F%8E%A8+%C2%B7+Dev+%F0%9F%92%BB+%C2%B7+Future+AI%2FML+Engineer+%F0%9F%A4%96;Currently+building+web+%2B+mobile+%2B+ML+magic;Unique+aesthetic%2C+loud+energy%2C+quiet+life+%E2%9C%A8)](https://git.io/typing-svg)
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=1&color=00000000&width=1&height=1&lines=." width="1" height="1"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=2EC4B6&center=true&vCenter=true&width=950&height=70&lines=Hey%2C+I+am+Pakeeza+Bibi;CS+Student+%C2%B7+Painter+%C2%B7+Aspiring+AI%2FML+Engineer;Building+web+%2B+mobile+%2B+ML+projects)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pakeezaa&style=for-the-badge&color=2EC4B6)
 
@@ -14,48 +12,26 @@
 
 </div>
 
-<br>
+## About Me
 
-## 🎨 About Me — the unfiltered version
+I'm a Computer Science student at the Institute of Space Technology (IST —
+KICSIT Campus), currently in my 5th semester. I'm learning and building
+**web applications**, **mobile apps**, and diving into **Machine Learning**
+and **AI**.
 
-```yaml
-name:         Pakeeza Bibi
-role:         BS Computer Science Student — 5th Semester 🧠
-affiliation:  Institute of Space Technology (IST) — KICSIT Campus
-CGPA:         3.87 🌟
-focus:        Web Dev | Mobile Apps | Machine Learning | AI
-off_screen:   Painting canvases 🎨 | Curating fits 👗 | Being unapologetically me
-vibe:         Introvert by default, main character energy on demand ⚡
-```
+Outside of code, I paint and I'm into fashion and design — my style leans
+toward a distinct, unconventional aesthetic. Socially I keep a small circle;
+I don't hang out often, but when I do, I bring a lot of energy.
 
-Half my brain is running Python scripts, the other half is picking color
-palettes for my next painting. I'm a CS student who codes by day and creates
-by instinct — currently deep in **web apps**, **mobile development**, and
-**Machine Learning / AI**, one project (and one paint stroke) at a time. 🚀
+## Academics
 
-I'm not the "let's hang out every weekend" type — I keep my circle small and
-my energy *unmatched* when I actually show up. If you catch me at an event,
-you're getting 100%, no half versions. 😄
-
-## 🎓 Academics
-
-<div align="center">
-
-| 📚 Semester | 🎯 CGPA | 🏫 University |
+| Semester | CGPA | University |
 |:---:|:---:|:---:|
-| 5th | **3.87 / 4.00** | Institute of Space Technology — KICSIT |
+| 5th | 3.87 / 4.00 | Institute of Space Technology — KICSIT |
 
-</div>
-
-Currently juggling coursework — databases, computer architecture, theory of
-computation, assembly language — while still shipping side projects and
-internship work on top. Balance is a myth, I just run on caffeine and color
-theory. ☕🎨
-
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -64,7 +40,6 @@ theory. ☕🎨
 ![NASM](https://img.shields.io/badge/x86%20Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
 
 **Frameworks & Libraries**
-
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -73,7 +48,6 @@ theory. ☕🎨
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
 **Databases & Tools**
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -84,21 +58,20 @@ theory. ☕🎨
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
 **Currently Learning**
-
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-10B981?style=flat-square)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=flat-square)
 ![Mobile App Dev](https://img.shields.io/badge/Mobile%20App%20Development-3B82F6?style=flat-square)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=pakeezaa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pakeezaa&layout=compact&theme=tokyonight&hide_border=true)
 
-## 📈 Contribution Streak
+## Contribution Streak
 
 ![](https://github-readme-streak-stats-eight.vercel.app/?user=pakeezaa&theme=tokyonight&hide_border=true)
 
-## 💻 Projects
+## Projects
 
 | Project | Description |
 | --- | --- |
@@ -108,31 +81,29 @@ theory. ☕🎨
 | **Student Management System** | Flask/MongoDB app with full CRUD operations and a polished single-page UI |
 | **KICSIT Student Info System** | DOS-based x86 Assembly (NASM) project — attendance tracking and grade calculation |
 
-## 💼 Experience
+## Experience
 
-🐍 **Python Developer Intern** — Synent Technologies (Remote) `Jul 2026 – Aug 2026`
+**Python Developer Intern** — Synent Technologies (Remote) `Jul 2026 – Aug 2026`
 Worked with Python (os, numpy, pandas, matplotlib), built a file organizer and a weather app, and picked up scikit-learn plus core ML/DL concepts
 
-🤖 **ML Engineering Intern** — Elevvo Pathways `Aug 2026`
+**ML Engineering Intern** — Elevvo Pathways `Aug 2026`
 Working on customer segmentation, sales forecasting, music genre classification, and industrial predictive maintenance projects
 
-## 🎓 Education
+## Education
 
-🎓 **BS Computer Science** — Institute of Space Technology, KICSIT Campus `2024 – 2028` · 5th Semester · CGPA 3.87
+**BS Computer Science** — Institute of Space Technology, KICSIT Campus `2024 – 2028`
+5th Semester · CGPA 3.87
 
-## 🌈 Beyond the Code
+## Beyond the Code
 
-🎨 **Painting** — my other language, when pixels aren't enough
-👗 **Fashion & Design** — I build outfits the way I build projects: intentional and a little unconventional
-✨ **Aesthetic** — unapologetically unique, not chasing trends
-⚡ **Social energy** — small circle, high voltage. I don't do "every weekend," but when I show up, I *show up*
+Painting, fashion and design, and building a personal aesthetic that's distinctly my own.
 
-## 🔎 Interests
+## Interests
 
 `Web Development` `Mobile App Development` `Machine Learning` `Artificial Intelligence` `Painting` `Fashion & Design`
 
 <div align="center">
 
-### ⭐ Always open to learning, collaborating, and building cool (and colorful) projects — feel free to connect!
+**Always open to learning, collaborating, and building cool projects — feel free to connect.**
 
 </div>
