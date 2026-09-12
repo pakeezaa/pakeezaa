@@ -24,46 +24,50 @@ the way.
 
 ## Academics
 
-![Semester](https://img.shields.io/badge/Semester-5th-FF6B6B?style=for-the-badge)
-![CGPA](https://img.shields.io/badge/CGPA-3.87%2F4.00-FFD93D?style=for-the-badge)
-![University](https://img.shields.io/badge/University-IST%20KICSIT-4D96FF?style=for-the-badge)
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/Semester-5th-FF6B6B?style=for-the-badge" /></td>
+<td><img src="https://img.shields.io/badge/CGPA-3.87%2F4.00-FFD93D?style=for-the-badge" /></td>
+<td><img src="https://img.shields.io/badge/University-IST%20KICSIT-4D96FF?style=for-the-badge" /></td>
+</tr>
+</table>
 
 ## Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![NASM](https://img.shields.io/badge/x86%20Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NASM](https://img.shields.io/badge/x86%20Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 **Frameworks & Libraries**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 **Databases & Tools**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 **Currently Learning**
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-10B981?style=flat-square)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=flat-square)
-![Mobile App Dev](https://img.shields.io/badge/Mobile%20App%20Development-3B82F6?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-10B981?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=for-the-badge)
+![Mobile App Dev](https://img.shields.io/badge/Mobile%20App%20Development-3B82F6?style=for-the-badge)
 
 ## GitHub Stats
 
@@ -94,16 +98,26 @@ Working on customer segmentation, sales forecasting, music genre classification,
 
 ## Education
 
-![Degree](https://img.shields.io/badge/Degree-BS%20Computer%20Science-4D96FF?style=flat-square)
-![Institute](https://img.shields.io/badge/Institute-IST%20KICSIT-6BCB77?style=flat-square)
-![Duration](https://img.shields.io/badge/Duration-2024%20--%202028-FFD93D?style=flat-square)
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/Degree-BS%20Computer%20Science-4D96FF?style=for-the-badge" /></td>
+<td><img src="https://img.shields.io/badge/Institute-IST%20KICSIT-6BCB77?style=for-the-badge" /></td>
+<td><img src="https://img.shields.io/badge/Duration-2024%20--%202028-FFD93D?style=for-the-badge" /></td>
+</tr>
+</table>
 
 ## Beyond the Code
 
-![Painting](https://img.shields.io/badge/Hobby-Painting-FF6B9C?style=flat-square)
-![Fashion](https://img.shields.io/badge/Hobby-Fashion%20%26%20Design-9D4EDD?style=flat-square)
-![Aesthetic](https://img.shields.io/badge/Style-Unique%20%26%20Unconventional-FFA630?style=flat-square)
-![Social](https://img.shields.io/badge/Social%20Type-Selective%2C%20High%20Energy-06D6A0?style=flat-square)
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/Hobby-Painting-FF6B9C?style=for-the-badge" /></td>
+<td><img src="https://img.shields.io/badge/Hobby-Fashion%20%26%20Design-9D4EDD?style=for-the-badge" /></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Style-Unique%20%26%20Unconventional-FFA630?style=for-the-badge" /></td>
+<td><img src="https://img.shields.io/badge/Social%20Type-Selective%2C%20High%20Energy-06D6A0?style=for-the-badge" /></td>
+</tr>
+</table>
 
 I paint, and I'm into fashion and design — my aesthetic is unique and very much my own. Socially, I keep a small circle and don't hang out too often, but whenever I do meet people, I bring a lot of energy.
 
