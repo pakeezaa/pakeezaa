@@ -1,27 +1,58 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Pakeeza+Bibi;BS+Computer+Science+Student+%40+IST;Learning+Web+Dev%2C+Mobile+Apps%2C+ML+%26+AI;Building+one+project+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=38&duration=2800&pause=900&color=2EC4B6&center=true&vCenter=true&width=950&height=70&lines=Hey%2C+I+am+Pakeeza+%F0%9F%91%8B;Painter+%F0%9F%8E%A8+%C2%B7+Dev+%F0%9F%92%BB+%C2%B7+Future+AI%2FML+Engineer+%F0%9F%A4%96;Currently+building+web+%2B+mobile+%2B+ML+magic;Unique+aesthetic%2C+loud+energy%2C+quiet+life+%E2%9C%A8)](https://git.io/typing-svg)
 
-<p align="center"> <a href="https://www.linkedin.com/in/pakeezab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="mailto:pzdhp23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=1&color=00000000&width=1&height=1&lines=." width="1" height="1"/>
 
-##  About Me
+![Profile Views](https://komarev.com/ghpvc/?username=pakeezaa&style=for-the-badge&color=2EC4B6)
 
-```
+<p align="center">
+  <a href="https://www.linkedin.com/in/pakeezab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
+  <a href="https://github.com/pakeezaa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" /></a>
+  <a href="mailto:pzdhp23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>
+</p>
+
+</div>
+
+<br>
+
+## 🎨 About Me — the unfiltered version
+
+```yaml
 name:         Pakeeza Bibi
-role:         BS Computer Science Student (3rd Year)
+role:         BS Computer Science Student — 5th Semester 🧠
 affiliation:  Institute of Space Technology (IST) — KICSIT Campus
-location:     Islamabad, Pakistan 🇵🇰
-focus:        [Web Development, Mobile App Development, Machine Learning, AI]
-status:       Currently learning & building 
+CGPA:         3.87 🌟
+focus:        Web Dev | Mobile Apps | Machine Learning | AI
+off_screen:   Painting canvases 🎨 | Curating fits 👗 | Being unapologetically me
+vibe:         Introvert by default, main character energy on demand ⚡
 ```
 
-I'm a 3rd year Computer Science student exploring the world of software
-development and Artificial Intelligence. I'm currently learning and building
-**web applications**, **mobile apps**, and diving into **Machine Learning**
-and **AI** — with hands-on projects, internships, and a lot of curiosity
-along the way.
+Half my brain is running Python scripts, the other half is picking color
+palettes for my next painting. I'm a CS student who codes by day and creates
+by instinct — currently deep in **web apps**, **mobile development**, and
+**Machine Learning / AI**, one project (and one paint stroke) at a time. 🚀
 
-##  Tech Stack
+I'm not the "let's hang out every weekend" type — I keep my circle small and
+my energy *unmatched* when I actually show up. If you catch me at an event,
+you're getting 100%, no half versions. 😄
+
+## 🎓 Academics
+
+<div align="center">
+
+| 📚 Semester | 🎯 CGPA | 🏫 University |
+|:---:|:---:|:---:|
+| 5th | **3.87 / 4.00** | Institute of Space Technology — KICSIT |
+
+</div>
+
+Currently juggling coursework — databases, computer architecture, theory of
+computation, assembly language — while still shipping side projects and
+internship work on top. Balance is a myth, I just run on caffeine and color
+theory. ☕🎨
+
+## 🛠 Tech Stack
 
 **Languages**
 
@@ -58,41 +89,50 @@ along the way.
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=flat-square)
 ![Mobile App Dev](https://img.shields.io/badge/Mobile%20App%20Development-3B82F6?style=flat-square)
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=pakeezaa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pakeezaa&layout=compact&theme=tokyonight&hide_border=true)
 
-##  Contribution Streak
+## 📈 Contribution Streak
 
 ![](https://github-readme-streak-stats-eight.vercel.app/?user=pakeezaa&theme=tokyonight&hide_border=true)
 
-
-##  Projects
+## 💻 Projects
 
 | Project | Description |
 | --- | --- |
 | **SmartGrade AI** | Streamlit app predicting student performance using a Random Forest model on the UCI Student Performance dataset |
-| **SilverConnect Hub** | Flask/MongoDB platform connecting senior citizens with volunteers includes volunteer messaging, contact form handling, and a role-based admin panel |
-| **Crop Guard AI** | Hackathon project (built for a Pakistan-wide competition)  an AI system that detects crop damage from satellite & weather data and auto-triggers financial relief for farmers |
+| **SilverConnect Hub** | Flask/MongoDB platform connecting senior citizens with volunteers — includes volunteer messaging, contact form handling, and a role-based admin panel |
+| **Crop Guard AI** | Hackathon project (Pakistan-wide competition) — AI system detecting crop damage from satellite & weather data and auto-triggering financial relief for farmers |
 | **Student Management System** | Flask/MongoDB app with full CRUD operations and a polished single-page UI |
 | **KICSIT Student Info System** | DOS-based x86 Assembly (NASM) project — attendance tracking and grade calculation |
 
-##  Experience
+## 💼 Experience
 
- **Python Developer Intern** — Synent Technologies (Remote) `Jul 2026 – Aug 2026`
+🐍 **Python Developer Intern** — Synent Technologies (Remote) `Jul 2026 – Aug 2026`
 Worked with Python (os, numpy, pandas, matplotlib), built a file organizer and a weather app, and picked up scikit-learn plus core ML/DL concepts
 
- **ML Engineering Intern** — Elevvo Pathways `Aug 2026 `
+🤖 **ML Engineering Intern** — Elevvo Pathways `Aug 2026`
 Working on customer segmentation, sales forecasting, music genre classification, and industrial predictive maintenance projects
 
-##  Education
+## 🎓 Education
 
-🎓 **BS Computer Science** — Institute of Space Technology, KICSIT Campus `2024 – 2028`
+🎓 **BS Computer Science** — Institute of Space Technology, KICSIT Campus `2024 – 2028` · 5th Semester · CGPA 3.87
 
-##  Interests
+## 🌈 Beyond the Code
 
-`Web Development` `Mobile App Development` `Machine Learning` `Artificial Intelligence`
+🎨 **Painting** — my other language, when pixels aren't enough
+👗 **Fashion & Design** — I build outfits the way I build projects: intentional and a little unconventional
+✨ **Aesthetic** — unapologetically unique, not chasing trends
+⚡ **Social energy** — small circle, high voltage. I don't do "every weekend," but when I show up, I *show up*
 
-###  Always open to learning, collaborating, and building cool projects — feel free to connect!
+## 🔎 Interests
 
+`Web Development` `Mobile App Development` `Machine Learning` `Artificial Intelligence` `Painting` `Fashion & Design`
+
+<div align="center">
+
+### ⭐ Always open to learning, collaborating, and building cool (and colorful) projects — feel free to connect!
+
+</div>
