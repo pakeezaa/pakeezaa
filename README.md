@@ -119,8 +119,7 @@ Working on customer segmentation, sales forecasting, music genre classification,
 </tr>
 </table>
 
-I paint, and I'm into fashion and design — my aesthetic is unique and very much my own. Socially, I keep a small circle and don't hang out too often, but whenever I do meet people, I bring a lot of energy.
-
+I paint, and I'm into fashion and design.
 ## Interests
 
 `Web Development` `Mobile App Development` `Machine Learning` `Artificial Intelligence` `Painting` `Fashion & Design`
