@@ -122,6 +122,6 @@ Working on customer segmentation, sales forecasting, music genre classification,
 I paint, and I'm into fashion and design.
 ## Interests
 
-`Web Development` `Mobile App Development` `Machine Learning` `Artificial Intelligence` `Painting` `Fashion & Design`
+`Web Development` `Mobile App Development` `Machine Learning` `Artificial Intelligence` `UI/UX` `Painting` `Fashion & Design`
 
 ### Always open to learning, collaborating, and building cool projects — feel free to connect!
